@@ -12,7 +12,7 @@ In my journey in cybersecurity, I am focused on developing my skills through han
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting Up & analyzing Honeypot W/ SIEM          |  "https://github.com/Luislabs/SOC-HoneyPot-Lab/tree/main</a>"|
+| Setting Up & analyzing Honeypot W/ SIEM          |  https://github.com/Luislabs/SOC-HoneyPot-Lab/tree/main</a>|
 | Vulnerability Management Lab          | <a href="https://google.com">Detection Lab</a>|
 | Active Directory | <a href="https://google.com">Detection Lab</a>|
 
