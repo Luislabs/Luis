@@ -1,6 +1,8 @@
 
 # Hello, I'm Luis
-<a href="www.linkedin.com/in/luis-mota-436217221"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/luis-mota-436217221">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
 I'm a Cyber Security undergrad with a passion for safeguarding digital spaces and exploring the ever-evolving world of information security. Welcome to my GitHub profile, where I share my projects, experiments, and insights into cybersecurity.
@@ -33,7 +35,6 @@ In my journey in cybersecurity, I am focused on developing my skills through han
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-- 
 - Vulnerability Scanner
 - SOC Honeypot Lab
 - Creating Active Directory
