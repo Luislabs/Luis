@@ -28,21 +28,14 @@ In my journey in cybersecurity, I am focused on developing my skills through han
 [![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-Oracle-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 
 
-
-
-
-### Network
-
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link]
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-@@ -57,6 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
-</div>
 
 ## Projects
 - <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Detection Lab
-- SOC Automation Project
-- Test Project
+- Vulnerability Scanner
+- SOC Honeypot Lab
+- Creating Active Directory
