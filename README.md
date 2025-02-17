@@ -1,49 +1,43 @@
 
-# Hello, I'm CHANGEME
+# Hello, I'm Luis
 <a href="www.linkedin.com/in/luis-mota-436217221"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a Cyber Security undergrad with a passion for safeguarding digital spaces and exploring the ever-evolving world of information security. Welcome to my GitHub profile, where I share my projects, experiments, and insights into cybersecurity.
 
 ## Objective
-[Provide Objective]
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+In my journey in cybersecurity, I am focused on developing my skills through hands-on projects to pave the way for a successful career in the industry.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Setting Up & analyzing Honeypot W/ SIEM          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
+| Vulnerability Management Lab          | <a href="https://google.com">Detection Lab</a>|
+| Active Directory | <a href="https://google.com">Detection Lab</a>|
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+## SIEM
+[![ELK Stack Badge](https://img.shields.io/badge/ELK_Stack-Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)](https://www.elastic.co/what-is/elk-stack)
+[![Splunk Badge](https://img.shields.io/badge/Splunk-Enterprise-FF6200?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com)
+
+## Virtual Machines
+[![VMware Badge](https://img.shields.io/badge/VMware-VMware-0079C1?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com)
+[![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-Oracle-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+
+
+
+
 
 ### Network
-<div>
-@@ -46,9 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
-</div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link]
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 @@ -57,6 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
