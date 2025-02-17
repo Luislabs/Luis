@@ -12,7 +12,7 @@ In my journey in cybersecurity, I am focused on developing my skills through han
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Setting Up & analyzing Honeypot W/ SIEM          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>|
+| Setting Up & analyzing Honeypot W/ SIEM          |  "https://github.com/Luislabs/SOC-HoneyPot-Lab/tree/main</a>"|
 | Vulnerability Management Lab          | <a href="https://google.com">Detection Lab</a>|
 | Active Directory | <a href="https://google.com">Detection Lab</a>|
 
@@ -35,7 +35,7 @@ In my journey in cybersecurity, I am focused on developing my skills through han
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
+- 
 - Vulnerability Scanner
 - SOC Honeypot Lab
 - Creating Active Directory
