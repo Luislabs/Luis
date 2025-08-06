@@ -15,8 +15,7 @@ In my journey in cybersecurity, I am focused on developing my skills through han
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting Up & analyzing Honeypot W/ SIEM          |  https://github.com/Luislabs/SOC-HoneyPot-Lab/tree/main</a>|
-| Vulnerability Management Lab          | <a href="https://google.com">Detection Lab</a>|
-| Active Directory | <a href="https://google.com">Detection Lab</a>|
+| Digital Forensics lab using wireshark         |  https://github.com/Luislabs/Wireshark-Malware-Analysis-Lab/tree/main</a>|
 
 
 ## Tools
@@ -35,6 +34,7 @@ In my journey in cybersecurity, I am focused on developing my skills through han
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 ## Projects
-- Vulnerability Scanner
+- Tenable Nessus Vulnerability Scanner
 - SOC Honeypot Lab
 - Creating Active Directory
+- Pentesting using vulnerable VM's
