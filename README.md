@@ -10,12 +10,14 @@ I'm a Cyber Security undergrad with a passion for safeguarding digital spaces an
 ## Objective
 In my journey in cybersecurity, I am focused on developing my skills through hands-on projects to pave the way for a successful career in the industry.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Title                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Setting Up & analyzing Honeypot W/ SIEM          |  https://github.com/Luislabs/SOC-HoneyPot-Lab/tree/main</a>|
 | Digital Forensics lab using wireshark         |  https://github.com/Luislabs/Wireshark-Malware-Analysis-Lab/tree/main</a>|
+| ELK Stack Deployment                           |   https://github.com/Luislabs/elk-stack-homelab/tree/main</a>|
+| Purple Team Active Directory Lab             |  https://github.com/Luislabs/Purple-team-ad-lab/tree/main</a>|
 
 
 ## Tools
@@ -32,9 +34,7 @@ In my journey in cybersecurity, I am focused on developing my skills through han
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCDL1-0000FF?&style=for-the-badge&logo=CyberDefenders&logoColor=white" />
 
-## Projects
-- Tenable Nessus Vulnerability Scanner
-- SOC Honeypot Lab
-- Creating Active Directory
-- Pentesting using vulnerable VM's
+
